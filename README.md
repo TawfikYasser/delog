@@ -6,4 +6,6 @@ My repository for learning data engineering and applied projects.
 - - -
 * Python:
   * Project #1 : [Python Library for Regular Expressions](https://github.com/TawfikYasser/erxepy)
-  * Project #2 : 
+  * Project #2 : [Python Scraper](https://github.com/TawfikYasser/delog/blob/main/Python/PythonScraper.py)
+* Talend:
+  * Project #1:
