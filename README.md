@@ -6,4 +6,6 @@
 > 
 > [Python Library for Regular Expressions](https://github.com/TawfikYasser/erxepy)
 > 
-> [Python Video API](https://github.com/TawfikYasser/delog/blob/main/videoAPI.py)
+> [CompanyScraping&API](https://github.com/TawfikYasser/delog/tree/main/Company-Project)
+>
+> [Python Video API / No DB](https://github.com/TawfikYasser/delog/blob/main/videoAPI.py)
