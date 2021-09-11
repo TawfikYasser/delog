@@ -1,5 +1,5 @@
 ### Topics
-> Python | Talend | MongoDB | Hadoop | Spark | RestAPI | Airflow | Docker | AWS | Unit Testing | CI/CD | Tableau
+> Python | Talend | Cassandra | Hadoop | Spark | RestAPI | Airflow | Docker | AWS
 - - -
 ### Projects
 > [Data Warehouse using Talend Studio](https://github.com/TawfikYasser/TalendDI-Data-Warehouse)
